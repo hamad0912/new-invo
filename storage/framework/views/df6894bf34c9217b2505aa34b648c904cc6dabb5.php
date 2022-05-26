@@ -1,0 +1,1 @@
+<?php /**PATH /Users/hamadotb/Sites/invo/resources/views/dashboard.blade.php ENDPATH**/ ?>
